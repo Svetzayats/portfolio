@@ -58,6 +58,10 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+footer {
+  margin-top: 1.5rem;
+}
+
 body {
   margin: 0;
   padding-top: 4rem;
@@ -399,6 +403,11 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem;
+}
+
+.avatar {
+  max-height: 150px;
+  max-width: 150px;
 }
 
 .lead {
