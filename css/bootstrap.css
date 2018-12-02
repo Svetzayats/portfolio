@@ -505,6 +505,7 @@ mark,
   width: 100%;
   max-height: 150px;
   object-fit: cover;
+  margin-top: 2rem;
 }
 
 .img-thumbnail {
