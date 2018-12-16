@@ -10069,5 +10069,11 @@ a.text-dark:focus {
   text-decoration: none;
 }
 
+.card-about {
+    height: 200px;
+    object-fit: fill;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
 
 
